@@ -29,6 +29,16 @@ The goal of this project is to:
 - Jupyter Notebook
 - (Optional) Streamlit for dashboards or Tableau for visual analytics
 
+## 📊 Overall Analysis
+
+- 🗓️ **Editions**: 35  
+- 🏙️ **Host Cities**: 42  
+- 🥇 **Sports**: 66  
+- 🏅 **Events**: 765  
+- 🧑‍🤝‍🧑 **Athletes**: 134,732  
+- 🌍 **Nations**: 206  
+- 🎯 **Hosts**: 42  
+
 ## 📈 Key Visualizations
 
 - Top countries by medal count
