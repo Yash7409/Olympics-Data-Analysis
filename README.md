@@ -37,7 +37,9 @@ The goal of this project is to:
 - 🏅 **Events**: 765  
 - 🧑‍🤝‍🧑 **Athletes**: 134,732  
 - 🌍 **Nations**: 206  
-- 🎯 **Hosts**: 42  
+- 🎯 **Hosts**: 42
+- 
+![Age Distribution Chart](imp png/Age Distribution by Medal Type.png)
 
 ## 📈 Key Visualizations
 
